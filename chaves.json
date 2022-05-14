@@ -5,7 +5,7 @@
 "c56bc2d1-5e51-42ca-85ea-e24c4799426f":{"cliente":"comando","mac":"358DD6FB-4217-429E-6C29-04D9F57949F4","data":"20300522"},
 "1336d3dc-8d71-466d-9a20-190199cc3c72":{"cliente":"rony","mac":"032E02B4-0499-05F4-2C06-7F0700080009","data":"20300522"},
 "db5328ab-fd65-4005-963d-6b433daf3b6a":{"cliente":"hinatousaka","mac":"4C4C4544-0056-5610-8054-B6C04F5A3233","data":"20300522"},
-"fe6b24c6-1fd7-4123-97f2-f91672f6caef":{"cliente":"mkvinhas","mac":"60927A8D-755B-2966-1184-3C7C3F78E764","data":"20220628"},
+"fe6b24c6-1fd7-4123-97f2-f91672f6caef":{"cliente":"mkvinhas","mac":"60927A8D-755B-2966-1184-3C7C3F78E764","data":"20220705"},
 "eb588528-55ea-457e-8ede-b109af614f03":{"cliente":"pepe","mac":"1FDC9C9C-A5A8-8B16-A89F-00D8619CD26E","data":"20300426"},
 "325c6dfb-f707-4da3-9d87-bf064d10631e":{"cliente":"matulinha","mac":"4C4C4544-0039-5210-8050-B8C04F515832","data":"20300426"},
 "9f51c818-ce1e-40ce-a4fe-fc7f223c5e55":{"cliente":"kazumiwel","mac":"03D502E0-045E-058A-4906-710700080009","data":"20300426"},
@@ -14,5 +14,6 @@
 "703e5c4c-89e6-4ca8-a772-c8c8a13945e4":{"cliente":"leozin","mac":"03000200-0400-0500-0006-000700080009","data":"20300425"},
 "d5c9a497-e52e-4fcc-b6a1-3126af60959f":{"cliente":"morgadista","mac":"A1C3F3FD-1D6B-F233-2CDC-2CFDA1C8E2FE","data":"20300426"},
 "e309f134-58f6-4bd8-8ab1-7ed8c6f269c1":{"cliente":"histidina","mac":"9A1CE155-1BCD-E611-89FC-1C39475B950E","data":"20300426"},
-"66d963bd-3eba-453b-963e-28dbc3d85b9e":{"cliente":"china","mac":"5DCEE53B-1828-97B7-F4E3-3C7C3F7A091F","data":"20220430"}
+"66d963bd-3eba-453b-963e-28dbc3d85b9e":{"cliente":"china","mac":"5DCEE53B-1828-97B7-F4E3-3C7C3F7A091F","data":"20220430"},
+"a00fa447-7098-4885-8300-6a8343349284":{"cliente":"anesthetize","mac":"42D53B37-E680-C83D-9A98-04D9F5632355","data":"20300430"}
 }
